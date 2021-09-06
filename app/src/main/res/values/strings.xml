@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">PG Finder</string>
+
+
+    <string name="forget_password">Forget Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="create_account_1">Create Account</string>
+    <string name="user_name">Username</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="next">Next</string>
+    <string name="male">Male</string>
+    <string name="female">FeMale</string>
+    <string name="other">Other</string>
+    <string name="choose_gender">Choose Gender</string>
+    <string name="select_your_age">Select Your Age</string>
+    <string name="city">City</string>
+    <string name="address_line_1">Address Line 1</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="state">State</string>
+    <string name="enter_state_name">Enter State Name</string>
+    <string name="pin_code">Pin Code</string>
+    <string name="average_price_per_month">*Average price per month</string>
+    <string name="base_price">Base Price</string>
+    <string name="upload_picture">Upload Picture</string>
+    <string name="save">Save</string>
+    <string name="select_images">Select Images</string>
+    <string name="max_6_images">*Max 6 images</string>
+    <string name="select">Select</string>
+    <string name="pincode">Pincode</string>
+    <string name="add_new_pg">Add New PG</string>
+    <string name="this_feature_under">This Feature Under Development....</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="facilities">Facilities</string>
+    <string name="name">Name</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="images_limit_exceed">Images Limit Exceed, Please Select 6 Images</string>
+    <string name="pg_search">PG Search</string>
+
+</resources>
